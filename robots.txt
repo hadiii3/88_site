@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eightyeightevents.me/sitemap.xml
